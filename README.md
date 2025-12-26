@@ -48,7 +48,7 @@
 
 ## 📄 View My Resume
 
-[Download Resume](https://your-resume-link-here)
+[Download Resume]([https://your-resume-link-here](https://github.com/kishore0786k/kishore0786k/blob/main/kishore_front%20end_resume.pdf))
 
 ---
 
