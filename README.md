@@ -135,7 +135,7 @@ Front-end concept for a smart parking reservation system.
 
 <p align="center">
   <a href="https://github.com/kishore0786k/kishore0786k/blob/main/kishore_front%20end_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📥-Download-Resume-00BFFF?style=for-the-badge" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/Download_Resume-00BFFF?style=for-the-badge&logo=pdf&logoColor=white" alt="Download Resume" />
   </a>
 </p>
 
