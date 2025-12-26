@@ -95,20 +95,17 @@ An interactive login page where three cute characters follow the cursor with smo
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=kishore0786k&theme=radical&hide_border=true"
-    alt="GitHub Streak for kishore0786k"
+    src="https://img.shields.io/github/commit-activity/m/kishore0786k/kishore0786k?style=for-the-badge&color=FF006E"
+    alt="Commit activity for kishore0786k"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore0786k&layout=compact&theme=radical&hide_border=true"
-    alt="Top languages for kishore0786k"
+    src="https://img.shields.io/github/languages/top/kishore0786k/Interactive-data-storytelling-lab?style=for-the-badge&color=3A86FF"
+    alt="Top language for Interactive-data-storytelling-lab"
   />
 </p>
-
-These graphs give a quick visual feel for your consistency and language mix, which recruiters often scan on profiles.
-
 ---
 
 ## 📌 Goals
