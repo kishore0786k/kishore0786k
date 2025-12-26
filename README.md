@@ -29,6 +29,7 @@
 - [Interactive Data Storytelling Lab](https://github.com/kishore0786k/Interactive-data-storytelling-lab) – Analytics dashboard that explains data, not just charts
 - [Cute Login Characters](https://github.com/kishore0786k/cute-login-characters) – Interactive UI with eye‑tracking and privacy features
 - [Hotel Management System](https://github.com/kishore0786k/Hotel_management_webpage) – Complete booking flow and dashboard
+- [Smart Parking Slot Booking](https://github.com/kishore0786k/smart-parking-slot-Booking-webpage) – Parking reservation UI
 
 ---
 
@@ -43,12 +44,6 @@
 ## 💡 Favorite Quote
 
 > "Learning by building real projects."
-
----
-
-## 📄 View My Resume
-
-[Download Resume]([https://your-resume-link-here](https://github.com/kishore0786k/kishore0786k/blob/main/kishore_front%20end_resume.pdf))
 
 ---
 
@@ -132,6 +127,16 @@ Front-end concept for a smart parking reservation system.
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/kishore0786k/Interactive-data-storytelling-lab?style=for-the-badge&color=3A86FF" alt="Top languages" />
+</p>
+
+---
+
+## 📄 View My Resume
+
+<p align="center">
+  <a href="https://github.com/kishore0786k/kishore0786k/blob/main/kishore_front%20end_resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📥-Download-Resume-00BFFF?style=for-the-badge" alt="Download Resume" />
+  </a>
 </p>
 
 ---
