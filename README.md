@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year engineering student with a strong interest in front-end web development.
-I enjoy building realistic user interfaces and complete applications using React.
+I am a final-year engineering student with a strong interest in front-end web development.  
+I enjoy building realistic user interfaces and complete applications using React.  
 My focus is on writing clean code, structuring projects properly, and improving through hands-on work.
 
 ---
@@ -19,7 +19,7 @@ My focus is on writing clean code, structuring projects properly, and improving 
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 ### 🏨 Hotel Management Web Application
 A front-end hotel booking system that includes:
@@ -29,7 +29,20 @@ A front-end hotel booking system that includes:
 - Admin dashboard to manage bookings  
 
 🔗 **GitHub Repository**  
-https://github.com/kishore0786k/Hotel_management_webpage
+[https://github.com/kishore0786k/Hotel_management_webpage](https://github.com/kishore0786k/Hotel_management_webpage)
+
+---
+
+### 👀 Cute Login Characters
+An interactive login page where three cute characters follow the cursor with smooth eye movement and look away casually while you type the password.
+
+- 360° eye tracking with precise cursor following  
+- Privacy-friendly behavior (side-eye “ignoring” mode on password input)  
+- Glassmorphism login UI with soft gradients  
+- Built with pure HTML, CSS and vanilla JavaScript  
+
+🔗 **GitHub Repository**  
+[https://github.com/kishore0786k/cute-login-characters](https://github.com/kishore0786k/cute-login-characters)
 
 ---
 
@@ -53,4 +66,3 @@ https://github.com/kishore0786k/Hotel_management_webpage
 <p align="center">
   <i>“Learning by building real projects.”</i>
 </p>
-
