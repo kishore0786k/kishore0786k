@@ -6,16 +6,16 @@
 
 ## 👨‍💻 About Me
 
-I am a final-year engineering student with a strong interest in front-end development and data‑driven products. [web:129]  
-I enjoy turning ideas into realistic UIs, and lately into **small analytical tools** that explain what the data is saying. [web:89]
+I am a final-year engineering student with a strong interest in front-end development and data‑driven products.  
+I enjoy turning ideas into realistic UIs, and lately into small analytical tools that explain what the data is saying.
 
 ---
 
 ## 🔭 What I’m Currently Working On
 
 - Building front-end projects using React, Tailwind CSS and vanilla JavaScript  
-- Exploring how dashboards can **tell stories** instead of just showing charts  
-- Learning real-world application flow, state handling and basic analytics concepts [web:55]
+- Exploring how dashboards can tell stories instead of just showing charts  
+- Learning real-world application flow, state handling and basic analytics concepts  
 
 ---
 
@@ -42,7 +42,7 @@ A front-end concept for a smart parking system.
 - Landing page that explains the parking flow  
 - Slot selection interface and basic booking form  
 - Simple status indicators to show slot availability  
-- Focus on clear layout and step-by-step user guidance
+- Focus on clear layout and step-by-step user guidance  
 
 🔗 **GitHub Repository**  
 [https://github.com/kishore0786k/smart-parking-slot-Booking-webpage](https://github.com/kishore0786k/smart-parking-slot-Booking-webpage)
@@ -56,7 +56,7 @@ A front-end hotel booking system that includes:
 - Hotel-style landing page  
 - Room listings with images and availability  
 - Booking form with validation  
-- Admin-style dashboard section to view bookings
+- Admin-style dashboard section to view bookings  
 
 🔗 **GitHub Repository**  
 [https://github.com/kishore0786k/Hotel_management_webpage](https://github.com/kishore0786k/Hotel_management_webpage)
@@ -94,14 +94,20 @@ An interactive login page where three cute characters follow the cursor with smo
 ## 📈 Project Activity / Performance
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore0786k&theme=radical" />
+  <img
+    src="https://streak-stats.demolab.com?user=kishore0786k&theme=radical&hide_border=true"
+    alt="GitHub Streak for kishore0786k"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore0786k&layout=compact&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore0786k&layout=compact&theme=radical&hide_border=true"
+    alt="Top languages for kishore0786k"
+  />
 </p>
 
-These graphs give a quick visual feel for your **consistency and language mix**, which recruiters often scan on profiles. [web:147][web:151]
+These graphs give a quick visual feel for your consistency and language mix, which recruiters often scan on profiles.
 
 ---
 
@@ -109,7 +115,7 @@ These graphs give a quick visual feel for your **consistency and language mix**,
 
 - Become a strong front-end developer who can also reason about metrics and user behavior  
 - Build more real-world, data-aware UI projects  
-- Continuously improve code quality, visual design and storytelling
+- Continuously improve code quality, visual design and storytelling  
 
 ---
 
