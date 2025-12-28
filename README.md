@@ -89,7 +89,7 @@ Full front-end hotel booking system with landing page, room listings, and admin 
   - Room catalog with availability status
   - Booking form with validation
   - Simple dashboard to view bookings
-- **Repo**: [Hotel_management_webpage](https://github.com/kishore0786k/Hotel_management_webpage)
+- **Repo**: [Hotel_management_webpage]([https://github.com/kishore0786k/Hotel_management_webpage](https://github.com/kishore0786k/Hotel-Management-Webpage.git)
 
 ---
 
