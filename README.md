@@ -28,7 +28,7 @@
 
 - [Interactive Data Storytelling Lab](https://github.com/kishore0786k/Interactive-data-storytelling-lab) – Analytics dashboard that explains data, not just charts
 - [Cute Login Characters](https://github.com/kishore0786k/cute-login-characters) – Interactive UI with eye‑tracking and privacy features
-- [Hotel Management System](https://github.com/kishore0786k/Hotel_management_webpage) – Complete booking flow and dashboard
+- [Hotel Management System](https://github.com/kishore0786k/Hotel-Management-Webpage.git) – Complete booking flow and dashboard
 - [Smart Parking Slot Booking](https://github.com/kishore0786k/smart-parking-slot-Booking-webpage) – Parking reservation UI
 
 ---
@@ -89,7 +89,7 @@ Full front-end hotel booking system with landing page, room listings, and admin 
   - Room catalog with availability status
   - Booking form with validation
   - Simple dashboard to view bookings
-- **Repo**: [Hotel_management_webpage]([https://github.com/kishore0786k/Hotel_management_webpage](https://github.com/kishore0786k/Hotel-Management-Webpage.git)
+- **Repo**: [Hotel_management_webpage](https://github.com/kishore0786k/Hotel-Management-Webpage.git)
 
 ---
 
