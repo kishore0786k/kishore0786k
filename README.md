@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=520&lines=Hey+there%2C+I'm+Kishore;Front-End+Developer;UI+%2B+Data+Storytelling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=520&lines=Hey+there%2C+I'm+Kishore;SQL+Developer;Database+Design+%2B+Analytics" />
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kishore0786k&color=blueviolet)
@@ -8,28 +8,28 @@
 
 ## 🔨 What I'm Currently Working On
 
-- Building front-end projects with **React**, **Vite**, and **Tailwind CSS**
-- Exploring **data‑driven dashboards** and "storytelling" interfaces in the browser
-- Learning better state management, component patterns, and product analytics thinking
-- Strengthening fundamentals in **JavaScript**, **UI/UX**, and **web performance**
+- Building database projects with **MySQL**, **Stored Procedures**, and **Triggers**
+- Exploring **data analytics dashboards** and "storytelling" insights from raw data
+- Learning better schema design, query optimisation, and database performance thinking
+- Strengthening fundamentals in **SQL**, **Data Modelling**, and **Reporting**
 
 ---
 
 ## 🏅 Certifications and Achievements
 
 - **Final‑year B.E. ECE** student (Electronics and Communication Engineering)
-- Active in **real-world project development** for placement preparation
-- Building portfolio with focus on **front-end + data/product thinking** intersection
-- Experience with **IoT**, **Machine Learning**, and **Web Development**
+- Active in **real-world database project development** for placement preparation
+- Building portfolio with focus on **SQL + data analytics thinking** intersection
+- Certified in **SQL (Advanced)** on HackerRank and trained at **Besant Technologies**
 
 ---
 
 ## 📝 Latest Projects & Learning
 
-- [Interactive Data Storytelling Lab](https://github.com/kishore0786k/Interactive-data-storytelling-lab) – Analytics dashboard that explains data, not just charts
-- [Cute Login Characters](https://github.com/kishore0786k/cute-login-characters) – Interactive UI with eye‑tracking and privacy features
-- [Hotel Management System](https://github.com/kishore0786k/Hotel-Management-Webpage.git) – Complete booking flow and dashboard
-- [Smart Parking Slot Booking](https://github.com/kishore0786k/smart-parking-slot-Booking-webpage) – Parking reservation UI
+- [Hospital Management & Analytics](https://github.com/kishore0786k) – Patient, billing & department analytics using MySQL
+- [Attendance Management System](https://github.com/kishore0786k) – Automated attendance tracking with triggers & reports
+- [Banking System Database](https://github.com/kishore0786k) – Accounts, transfers & transaction integrity with TCL
+- More projects coming soon...
 
 ---
 
@@ -49,72 +49,59 @@
 
 ## 🌟 Key Projects
 
-### 1. Interactive Data Storytelling Lab
+### 1. Hospital Management & Analytics System
 
-Front‑end–only analytics lab that transforms raw user event data into guided insights and "what if" decisions.
+A comprehensive MySQL database system to manage hospital operations and generate analytical insights.
 
-- **Technologies**: JavaScript (ES6+), Chart.js, HTML5, CSS3
+- **Technologies**: MySQL, MySQL Workbench
 - **Features**:
-  - CSV data parsing and in-browser aggregation
-  - Daily active users, sessions, feature-level engagement metrics
-  - Plain-language insight generation with editable anomaly rules
-  - "What if" decision simulation (onboarding, engagement impact)
-  - Story mode console guiding the analytical journey
-- **Why it matters**: Shows front-end beyond UI—data handling, analytical logic, and product thinking
-- **Repo**: [Interactive-data-storytelling-lab](https://github.com/kishore0786k/Interactive-data-storytelling-lab)
+  - Patient, doctor, appointment, billing & medical record management
+  - Advanced JOINs and subqueries for cross-table analytics
+  - Department performance and revenue insight reports
+  - Aggregate functions for patient trend analysis
+  - Normalised schema design with referential integrity constraints
+- **Why it matters**: Demonstrates real-world database design, analytical thinking, and query optimisation
+- **Repo**: [hospital-management-analytics](https://github.com/kishore0786k)
 
 ---
 
-### 2. Cute Login Characters
+### 2. Attendance Management System
 
-Interactive login page where animated characters respond to user behavior with eye-tracking and privacy awareness.
+A MySQL-based system to track and record employee/student attendance with automated reporting.
 
-- **Technologies**: HTML5, CSS3 (Glassmorphism), Vanilla JavaScript
+- **Technologies**: MySQL, MySQL Workbench
 - **Features**:
-  - 360° eye-tracking following cursor position
-  - "Privacy mode" where characters look away during password input
-  - Smooth animations and gradient UI
-  - Zero dependencies—pure front-end
-- **Repo**: [cute-login-characters](https://github.com/kishore0786k/cute-login-characters)
+  - Daily, weekly, and monthly automated attendance summaries
+  - DML operations with constraints for data integrity
+  - Triggers to auto-flag absenteeism thresholds
+  - Attendance status auto-update without manual intervention
+  - Complex queries for accurate reporting
+- **Repo**: [attendance-management-system](https://github.com/kishore0786k)
 
 ---
 
-### 3. Hotel Management Web Application
+### 3. Banking System Database
 
-Full front-end hotel booking system with landing page, room listings, and admin dashboard.
+A relational database system to manage banking operations with full transaction control.
 
-- **Technologies**: React, Tailwind CSS, JavaScript
+- **Technologies**: MySQL, MySQL Workbench
 - **Features**:
-  - Hero section and property branding
-  - Room catalog with availability status
-  - Booking form with validation
-  - Simple dashboard to view bookings
-- **Repo**: [Hotel_management_webpage](https://github.com/kishore0786k/Hotel-Management-Webpage.git)
-
----
-
-### 4. Smart Parking Slot Booking Webpage
-
-Front-end concept for a smart parking reservation system.
-
-- **Technologies**: HTML5, CSS3, JavaScript
-- **Features**:
-  - Clear parking flow explanation
-  - Slot selection UI with real-time availability
-  - Booking form and confirmation
-  - Focus on clear UX and step-by-step guidance
-- **Repo**: [smart-parking-slot-Booking-webpage](https://github.com/kishore0786k/smart-parking-slot-Booking-webpage)
+  - Customer accounts, fund transfers, loan records & branch management
+  - TCL commands (COMMIT, ROLLBACK, SAVEPOINT) for transaction integrity
+  - Stored procedures and triggers for core business logic automation
+  - Normalisation techniques to eliminate data redundancy
+  - Referential integrity constraints across all tables
+- **Repo**: [banking-system-database](https://github.com/kishore0786k)
 
 ---
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Chart.js](https://img.shields.io/badge/Chart.js-Data%20Viz-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=databricks&logoColor=fff)
+![Schema Design](https://img.shields.io/badge/Schema-Design-0064a5?style=for-the-badge&logo=diagramsdotnet&logoColor=fff)
+![Stored Procedures](https://img.shields.io/badge/Stored-Procedures-FF6F00?style=for-the-badge&logo=databricks&logoColor=fff)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-38B2AC?style=for-the-badge&logo=googleanalytics&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=git&logoColor=fff)
 
 ---
@@ -126,7 +113,7 @@ Front-end concept for a smart parking reservation system.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/kishore0786k/Interactive-data-storytelling-lab?style=for-the-badge&color=3A86FF" alt="Top languages" />
+  <img src="https://img.shields.io/github/languages/top/kishore0786k/kishore0786k?style=for-the-badge&color=3A86FF" alt="Top languages" />
 </p>
 
 ---
@@ -134,7 +121,7 @@ Front-end concept for a smart parking reservation system.
 ## 📄 View My Resume
 
 <p align="center">
-  <a href="https://github.com/kishore0786k/kishore0786k/blob/main/kishore_front%20end_resume.pdf" target="_blank">
+  <a href="https://github.com/kishore0786k/kishore0786k/blob/main/KISHORE_SQL_RESUME.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-00BFFF?style=for-the-badge&logo=pdf&logoColor=white" alt="Download Resume" />
   </a>
 </p>
@@ -149,14 +136,14 @@ Front-end concept for a smart parking reservation system.
 
 ## 📚 Currently Learning
 
-- Advanced React patterns and custom hooks
-- State management (Context API, Redux basics)
-- Full-stack fundamentals with back-end integration
-- Data visualization and dashboarding best practices
-- Product analytics and user behavior thinking
+- Advanced query optimisation and indexing strategies
+- Window functions and analytical SQL (RANK, DENSE_RANK, ROW_NUMBER)
+- Full database administration fundamentals
+- Data warehousing and reporting best practices
+- Business intelligence and dashboard integration with SQL
 
 ---
 
 <p align="center">
-  <strong>Let's build something meaningful together. Check out my repos and reach out on <a href="https://www.linkedin.com/in/kishore0786k/">LinkedIn</a>.</strong>
+  <strong>Let's build something meaningful together. Check out my repos and reach out on <a href="https://www.linkedin.com/in/kishore-r-061761378/">LinkedIn</a>.</strong>
 </p>
