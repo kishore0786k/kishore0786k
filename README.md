@@ -1,149 +1,158 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=520&lines=Hey+there%2C+I'm+Kishore;SQL+Developer;Database+Design+%2B+Analytics" />
+  Hi 👋, I'm Kishore
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kishore0786k&color=blueviolet)
-
----
-
-## 🔨 What I'm Currently Working On
-
-- Building database projects with **MySQL**, **Stored Procedures**, and **Triggers**
-- Exploring **data analytics dashboards** and "storytelling" insights from raw data
-- Learning better schema design, query optimisation, and database performance thinking
-- Strengthening fundamentals in **SQL**, **Data Modelling**, and **Reporting**
-
----
-
-## 🏅 Certifications and Achievements
-
-- **Final‑year B.E. ECE** student (Electronics and Communication Engineering)
-- Active in **real-world database project development** for placement preparation
-- Building portfolio with focus on **SQL + data analytics thinking** intersection
-- Certified in **SQL (Advanced)** on HackerRank and trained at **Besant Technologies**
-
----
-
-## 📝 Latest Projects & Learning
-
-- [Hospital Management & Analytics](https://github.com/kishore0786k) – Patient, billing & department analytics using MySQL
-- [Attendance Management System](https://github.com/kishore0786k) – Automated attendance tracking with triggers & reports
-- [Banking System Database](https://github.com/kishore0786k) – Accounts, transfers & transaction integrity with TCL
-- More projects coming soon...
-
----
-
-## 🔥 GitHub Activity
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | React | SQL | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore0786k&theme=react-dark&hide_border=false&area=true" alt="Activity graph for kishore0786k" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;SQL+%7C+MySQL+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kishore0786k&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 💡 Favorite Quote
+# 👨‍💻 About Me
 
-> "Learning by building real projects."
-
----
-
-## 🌟 Key Projects
-
-### 1. Hospital Management & Analytics System
-
-A comprehensive MySQL database system to manage hospital operations and generate analytical insights.
-
-- **Technologies**: MySQL, MySQL Workbench
-- **Features**:
-  - Patient, doctor, appointment, billing & medical record management
-  - Advanced JOINs and subqueries for cross-table analytics
-  - Department performance and revenue insight reports
-  - Aggregate functions for patient trend analysis
-  - Normalised schema design with referential integrity constraints
-- **Why it matters**: Demonstrates real-world database design, analytical thinking, and query optimisation
-- **Repo**: [hospital-management-analytics](https://github.com/kishore0786k)
+- 🎓 B.E. Electronics & Communication Engineering
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning Spring Security, JWT & Microservices
+- 🗄️ Strong in SQL, MySQL & Database Design
+- 🚀 Passionate about building scalable web applications
+- 📫 Reach me: **your-email@example.com**
 
 ---
 
-### 2. Attendance Management System
+# 🚀 Tech Stack
 
-A MySQL-based system to track and record employee/student attendance with automated reporting.
+### Languages
 
-- **Technologies**: MySQL, MySQL Workbench
-- **Features**:
-  - Daily, weekly, and monthly automated attendance summaries
-  - DML operations with constraints for data integrity
-  - Triggers to auto-flag absenteeism thresholds
-  - Attendance status auto-update without manual intervention
-  - Complex queries for accurate reporting
-- **Repo**: [attendance-management-system](https://github.com/kishore0786k)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Frontend
 
-### 3. Banking System Database
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-A relational database system to manage banking operations with full transaction control.
+### Backend
 
-- **Technologies**: MySQL, MySQL Workbench
-- **Features**:
-  - Customer accounts, fund transfers, loan records & branch management
-  - TCL commands (COMMIT, ROLLBACK, SAVEPOINT) for transaction integrity
-  - Stored procedures and triggers for core business logic automation
-  - Normalisation techniques to eliminate data redundancy
-  - Referential integrity constraints across all tables
-- **Repo**: [banking-system-database](https://github.com/kishore0786k)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 
----
+### Database
 
-## 🛠 Tech Stack
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=databricks&logoColor=fff)
-![Schema Design](https://img.shields.io/badge/Schema-Design-0064a5?style=for-the-badge&logo=diagramsdotnet&logoColor=fff)
-![Stored Procedures](https://img.shields.io/badge/Stored-Procedures-FF6F00?style=for-the-badge&logo=databricks&logoColor=fff)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-38B2AC?style=for-the-badge&logo=googleanalytics&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=git&logoColor=fff)
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📈 Project Activity / Performance
+# 🌟 Featured Projects
+
+## 🏦 Bank Management System
+
+Spring Boot REST API with MySQL.
+
+**Features**
+
+- Customer Management
+- Account Management
+- Money Transfer
+- Deposit & Withdrawal
+- Transaction History
+- Spring Security
+- JPA & Hibernate
+
+🔗 Repository:
+https://github.com/kishore0786k/Bank_project
+
+---
+
+## 🛡️ Neuro-Symbolic Intrusion Detection System
+
+Machine Learning + Rule-Based IDS for IoT attacks.
+
+**Technologies**
+
+- Python
+- Machine Learning
+- Streamlit
+- Scikit-Learn
+
+🔗 Repository:
+https://github.com/kishore0786k/NIDS
+
+---
+
+## 💼 More Projects
+
+- Hospital Management System
+- Attendance Management System
+- Portfolio Website
+- Inventory Management System
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/kishore0786k/kishore0786k?style=for-the-badge&color=FF006E" alt="Commit activity" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kishore0786k&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kishore0786k&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/kishore0786k/kishore0786k?style=for-the-badge&color=3A86FF" alt="Top languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore0786k&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📄 View My Resume
+# 📊 Activity Graph
 
 <p align="center">
-  <a href="https://github.com/kishore0786k/kishore0786k/blob/main/KISHORE_SQL_RESUME.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-00BFFF?style=for-the-badge&logo=pdf&logoColor=white" alt="Download Resume" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore0786k&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 💬 Testimonials
+# 🌱 Currently Learning
 
-> "Kishore demonstrates strong problem-solving skills and attention to detail in building real-world applications." – Academic Mentor
+- Spring Boot Advanced
+- Spring Security + JWT
+- Microservices
+- Docker
+- AWS Basics
+- React Advanced
 
 ---
 
-## 📚 Currently Learning
+# 🤝 Connect With Me
 
-- Advanced query optimisation and indexing strategies
-- Window functions and analytical SQL (RANK, DENSE_RANK, ROW_NUMBER)
-- Full database administration fundamentals
-- Data warehousing and reporting best practices
-- Business intelligence and dashboard integration with SQL
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kishore-r-061761378/)
 
 ---
 
 <p align="center">
-  <strong>Let's build something meaningful together. Check out my repos and reach out on <a href="https://www.linkedin.com/in/kishore-r-061761378/">LinkedIn</a>.</strong>
+
+⭐ Thanks for visiting my profile ⭐
+
 </p>
