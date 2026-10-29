@@ -23,7 +23,7 @@ Java Full Stack Developer | Spring Boot | React | SQL | Problem Solver
 - 🌱 Currently learning Spring Security, JWT & Microservices
 - 🗄️ Strong in SQL, MySQL & Database Design
 - 🚀 Passionate about building scalable web applications
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **kishore0786k@gmail.com**
 
 ---
 
